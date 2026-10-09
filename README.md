@@ -25,7 +25,7 @@ Focus: honest metrics, tested code, software that ships.
 
 ### Claude Code Router · Local LLM infrastructure
 
-- Self-hosted router that redirects AI-coding-client traffic to a local Ollama model instead of the cloud; installed globally as a CLI and run live for cost control and privacy.
+- Set up and run the open-source claude-code-router, self-hosted, so AI-coding-client traffic goes to a local Ollama model instead of the cloud; installed globally as a CLI and used live for cost control and privacy.
 
 ### Agentic Build-Loop Engineering · Methodology
 
