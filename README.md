@@ -13,12 +13,12 @@ Focus: honest metrics, tested code, software that ships.
 - Built in parallel by a team of AI agents I direct: one engine component per agent on its own git branch, peer review before merge, one integrator, and a full test battery on every merged batch. The final milestone is a whole-engine test that removes each connection to prove it is needed.
 - ~390 automated self-checks plus pytest; GitHub Actions CI on Ubuntu and Windows with free-threaded Python 3.14; 350+ tagged releases.
 
-### [agent-board](https://github.com/Aighluvsekks/agent-board) · Claude Code skill · Python, open source (MIT)
+### [agent-board](https://github.com/PVLuanDinh/agent-board) · Claude Code skill · Python, open source (MIT)
 
 - Claude Code skill that coordinates multiple AI agents across sessions and tools: append-only hash-chained message board, file claims, blind peer review, and an anti-gaming scorer that re-runs verification instead of trusting agent reports.
 - Configures custom skills and harness hooks to improve AI workflows, e.g. a Stop hook that keeps a lead agent working instead of idling, installed into any Claude account with one idempotent command; stdlib-only with a reachable-red self-check suite.
 
-### [Claude Odysseus Optimizer](https://github.com/Aighluvsekks/claude-odysseus-optimization) · Python
+### [Claude Odysseus Optimizer](https://github.com/PVLuanDinh/claude-odysseus-optimization) · Python
 
 - Builds a unified, queryable knowledge graph across multiple codebases (god nodes, community detection, inferred cross-repo bridge edges) via AST parsing and static analysis.
 - Returns scoped subgraphs sized for LLM context windows instead of raw file dumps.
@@ -42,4 +42,4 @@ Focus: honest metrics, tested code, software that ships.
 
 ## Contact
 
-Chicago, IL · reach me through [GitHub](https://github.com/Aighluvsekks)
+Chicago, IL · reach me through [GitHub](https://github.com/PVLuanDinh)
